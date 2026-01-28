@@ -24,4 +24,4 @@ Code Forest does not track files, languages, or typing.
 - Click 🏠 in sidebar to open forest
 
 ## Screenshots
-(Add later)
+
